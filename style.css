@@ -5,3 +5,9 @@ background: pink;
 
 
 }
+header{
+    border-bottom: solid 2px pink (42, 122, 228); 
+    padding: 20px; 
+    font-size: 32px 
+    color: blue (40, 55, 80) ;
+    
